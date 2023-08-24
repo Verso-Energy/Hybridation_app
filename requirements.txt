@@ -1,11 +1,6 @@
-cplex==22.1.1.0
-highspy==1.5.3
-ipywidgets==8.0.7
-jupyterlab-widgets==3.0.8
-numpy==1.22.4
-pandas==2.0.3
-Pyomo==6.4.4
-traitlets==5.9.0
-versys @ git+https://github.com/Verso-Energy/versys.git
-voila==0.4.1
+ipywidgets
+notebook
+voila
+highspy
+
 
